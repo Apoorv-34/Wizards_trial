@@ -65,7 +65,7 @@ Assets/
 ├── Prefabs/          # Reusable GameObjects (Portals, Ingots, Player)
 ├── Mesh/             # 3D Models for Village and Maze
 └── Resources/        # Audio and UI Assets
-
+```
 ---
 
 ## 🚀 How to Run
