@@ -1,4 +1,4 @@
-# Wizard’s Trial (Warrior in Woods) 🧙‍♂️💎
+# Wizard’s Trial 🧙‍♂️💎
 
 
 An atmospheric 3D adventure and puzzle game built using the latest **Unity 6** engine. Players must complete a high-stakes trial set by a mysterious Wizard, navigating mazes and villages under a strict time limit.
