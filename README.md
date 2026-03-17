@@ -21,6 +21,7 @@ An atmospheric 3D adventure and puzzle game built using the latest **Unity 6** e
 
 ### The Village Environment
 ![Village Scene](village.png)
+![Village Gameplay](village_game.png)
 *A detailed 3D low-poly village where players must find 6 hidden iron ingots.*
 
 ---
