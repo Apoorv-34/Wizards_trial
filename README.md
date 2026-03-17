@@ -65,3 +65,23 @@ Assets/
 ├── Prefabs/          # Reusable GameObjects (Portals, Ingots, Player)
 ├── Mesh/             # 3D Models for Village and Maze
 └── Resources/        # Audio and UI Assets
+
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Apoorv-34/Wizards_trial.git
+```
+2. Open in **Unity 6** (version 6000.2.14f1 or later)
+3. Open the `StartScene` from `Assets/Scenes/`
+4. Press ▶ Play
+
+---
+
+## 👥 Credits
+
+- **Apoorv Goyal** — Developer, Scripting
+- Unity 6 · URP · C#
+
+-  **Aditya Ahuja** — Developer, Scripting
+- Unity 6 · URP · C#
