@@ -66,6 +66,8 @@ Assets/
 ├── Mesh/             # 3D Models for Village and Maze
 └── Resources/        # Audio and UI Assets
 
+---
+
 ## 🚀 How to Run
 
 1. Clone the repository:
